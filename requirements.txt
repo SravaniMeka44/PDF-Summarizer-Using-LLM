@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+sentence-transformers
+numpy
+openai>=1.0.0
+torch
